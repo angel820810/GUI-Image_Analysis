@@ -18,9 +18,7 @@ See the accompanying PPT for the measurement concept, metric definitions,
 examples, and user guide.
 
 *********************************************************************************
-To try it out:
-
-You can download the images from the “Testing images” folder for testing. In my example images(in "Testing images" folder), the reference image is abbreviated as “ref”, and the measured image as “mea”.
+To try it out, you can download the images from the “Testing images” folder for testing. In my example images(in "Testing images" folder), the reference image is abbreviated as “ref”, and the measured image as “mea”.
 
 *Reference image: captured without the DOE waveguide (projector → camera)
 
